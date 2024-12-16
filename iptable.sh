@@ -1,6 +1,3 @@
-export PUBIP=xx.xx.xx.xx
-export SSHPORT=22xxx
-
 cat > /root/iptables.sh << EOF
 #!/bin/sh
 
